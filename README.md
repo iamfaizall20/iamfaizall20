@@ -2,15 +2,13 @@
 ![Header Banner](https://raw.githubusercontent.com/devezzy/devezzy/refs/heads/main/banner.jpg)
 
 ## Hi, I'm Faizal Hassan 👋  
-Founder of **Devezzyy** | Full Stack Developer | Content Creator  
+Full Stack Developer | Content Creator at **devezzyy** - checkout -> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devezzy)
 
-🚀 I’m a passionate **full stack developer** who loves crafting modern, responsive, and interactive web applications.  
-📹 I run **Devezzyy**, where I share **frontend code snippets**, **UI design tutorials**, and **modern web development tips** on YouTube and Instagram — helping developers create stunning and functional web experiences.  
+🚀 I’m a **Computer Science student** currently working on the **MERN stack** and building **modern web experiences**.  
+💡 My goal is to enhance my skills to become a **Full Stack Developer** and **AI Engineer**.  
 
 <!-- Social Links -->
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devezzy)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devezzyy/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devezzy)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devezzy) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devezzyy/)  
 
 ---
 
@@ -19,4 +17,4 @@ Founder of **Devezzyy** | Full Stack Developer | Content Creator
 
 ---
 
-> 💡 **"Building the web of tomorrow — one clean, functional, and beautiful project at a time."**
+> 💡 **"Code with passion, design with purpose, and innovate for the future."**
