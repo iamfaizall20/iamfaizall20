@@ -2,13 +2,13 @@
 ![Header Banner](https://raw.githubusercontent.com/devezzy/devezzy/refs/heads/main/banner.jpg)
 
 ## Hi, I'm Faizal Hassan 👋  
-Full Stack Developer | Content Creator at **devezzyy** - checkout -> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devezzy)
+Full Stack Developer 
 
 🚀 I’m a **Computer Science student** currently working on the **MERN stack** and building **modern web experiences**.  
 💡 My goal is to enhance my skills to become a **Full Stack Developer** and **AI Engineer**.  
 
 <!-- Social Links -->
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devezzy) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devezzyy/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devezzy) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devezzyy/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devezzy)
 
 ---
 
