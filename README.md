@@ -4,7 +4,7 @@
 ## Hi, I'm Faizal Hassan 👋  
 Full Stack Developer 
 
-🚀 I’m a **Computer Science student** currently working on the **MERN stack** and building **modern web experiences**.  
+🚀 I’m a **Computer Science student** currently working on the **.NET Full Stack Development** and building **modern web experiences**.  
 💡 My goal is to enhance my skills to become a **Full Stack Developer** and **AI Engineer**.  
 
 <!-- Social Links -->
