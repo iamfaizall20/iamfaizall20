@@ -5,7 +5,9 @@
 ### .NET Full Stack Developer | Computer Science Student
 
 🚀 Passionate about building scalable web applications and modern digital experiences.
+
 🎓 Computer Science student currently specializing in **.NET Full Stack Development**.
+
 💡 Continuously learning new technologies and best practices in software development.
 
 🎯 My long-term goal is to become a **Full Stack Developer** and **AI Engineer**, creating impactful solutions that solve real-world problems.
